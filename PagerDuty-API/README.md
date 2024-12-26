@@ -1,5 +1,5 @@
 
-INTRODUCTION
+INTRODUCTION : 
 Step by Step Guide to PagerDuty API integration in Python.
 services.py script will allow to bulk create Services in PagerDuty account using the API, with information about the services defined from a services.csv 
 
@@ -9,7 +9,7 @@ services.csv
 
 ............................................................................................................................................
 
-PREREQUISITES
+PREREQUISITES : 
 Python environment (3.12+ recommended)
 PagerDuty account with an API key (obtain from PagerDuty)
 
