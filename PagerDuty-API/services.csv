@@ -1,0 +1,4 @@
+type,name,description,auto_resolve_timeout
+service,My Web App,My cool web application that does things,14400
+service,Another Web App,This cool web application that does more things,10800
+service,My Best Web App,My cool web application that does all of the things,3600 
